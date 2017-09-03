@@ -2,8 +2,7 @@ learning git clone
 g,ld
 done
 jcxmvzvlmczlvm 
-<<<<<<< HEAD
 dfjdksjf
-=======
-dfflmdl
->>>>>>> 82f282cc934cfb67bb012f8da283ce32038098c7
+
+
+
